@@ -1,0 +1,17 @@
+{
+    "name": "jose/test2",
+    "description": "test 2",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Jose Ruzafa",
+            "email": "jose.ruzafa@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Juego\\":"src/"
+        }
+    }
+}

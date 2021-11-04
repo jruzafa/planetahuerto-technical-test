@@ -1,0 +1,15 @@
+{
+    "name": "jose/planetahuerto",
+    "authors": [
+        {
+            "name": "Jose Ruzafa",
+            "email": "jose.ruzafa@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Planta\\":"src/"
+        }
+    }
+}
